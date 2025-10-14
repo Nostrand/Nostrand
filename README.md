@@ -25,7 +25,7 @@ I enjoy learning new technologies, analyzing systems, and contributing to projec
 ### Project 1 – Case Study HR Analytics
 **Description:** This case study delves into HR analytics and dashboard design, exploring a fictitious HR dataset. The project aims to gain insights into employee metrics and provide interactive dashboards for HR decision-making.  
 **Objective:** Transform raw HR data, create DAX measures, and design clear, interactive dashboards for data-driven decision-making.  
-**Technologies:** Power BI
+**Technologies:** Power BI  
 **Reflection:** This project helped me practice data cleaning, handling missing values, and generating summary statistics. I also learned how to structure dashboards for usability and clarity, focusing on presenting insights in an actionable way.  
 **Repository / Link:** [View HR Analytics Dashboard](https://github.com/Nostrand/data-analysis-projects/blob/main/case-study-hr-analytics-in-power-bi/case-study-hr-analytics.md)
 
