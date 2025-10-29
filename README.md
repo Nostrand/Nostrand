@@ -11,16 +11,13 @@ Saved for later:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi there👋! My name is Erick and I'm a IT specialist, from Chile</h2>
+<h2 align="left">Hi there👋! My name is Erick and I'm from Chile</h2>
 
-I’m passionate about solving problems with data, improving workflows, and building tools that make information actionable.  
-Currently, I’m expanding my skills in **data engineering**, **Python**, **SQL**, and cloud platforms, while also exploring **quality assurance (QA)** and software testing practices.  
-I enjoy learning new technologies, analyzing systems, and contributing to projects that make processes more efficient.
+I’m an IT generalist with experience implementing healthcare systems and performing QA-focused freelance work. My experience includes game testing, reporting software issues, and verifying the accuracy of clinical data, giving me practical skills in identifying problems, documenting findings, and supporting system quality.
 
-**Interests:** Data pipelines, ETL, Cloud computing (AWS/GCP), Data Visualization, QA & Testing, Automation  
-**Goal:** Apply my skills to both **data-focused** and **quality-driven** roles, continuously growing in IT and software development.
+I’m looking for Trainee or Junior QA and testing roles, from manual and automation testing to eventually SDET-level development, where I can continue to grow, learn, and take on new challenges.
 
-## 🧩 Featured Projects
+## 🧩 Featured Practice Projects
 
 ### Project 1 – Case Study HR Analytics
 **Description:** This case study delves into HR analytics and dashboard design, exploring a fictitious HR dataset. The project aims to gain insights into employee metrics and provide interactive dashboards for HR decision-making.  
@@ -47,7 +44,7 @@ I enjoy learning new technologies, analyzing systems, and contributing to projec
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nostrand&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=neon&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nostrand&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nostrand&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=neon&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -64,6 +61,10 @@ I enjoy learning new technologies, analyzing systems, and contributing to projec
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
 </div>
 
